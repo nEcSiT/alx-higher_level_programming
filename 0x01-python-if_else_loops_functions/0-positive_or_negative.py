@@ -15,4 +15,3 @@ else:
     print(f'{number} is negative')
 
 # Printing a newline
-print()
