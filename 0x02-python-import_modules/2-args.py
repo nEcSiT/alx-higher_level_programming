@@ -1,7 +1,7 @@
 if __name__ == "__main__":
     import sys
 
-    num_args = len(sys.argv) - 1  # Subtract 1 to exclude the script name itself
+    num_args = len(sys.argv) - 1
 
     if num_args == 0:
         print("0 arguments.")
