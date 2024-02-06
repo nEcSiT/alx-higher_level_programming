@@ -1,5 +1,3 @@
 #!/usr/bin/python3
-def copy_list(l):
-""" A fuction the copy a string """
-    cpy = l.copy()
+def copy_list(l): cpy = l.copy()
     return cpy
