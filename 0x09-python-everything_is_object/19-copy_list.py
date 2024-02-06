@@ -1,5 +1,5 @@
 #!/usr/bin/python3
 def copy_list(l):
-""" A function the copy the a list and retur the copied strings """
+""" A fuction the copy a string """
     cpy = l.copy()
     return cpy
